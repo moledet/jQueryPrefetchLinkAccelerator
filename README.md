@@ -1,5 +1,5 @@
 # jQuery Prefetch Accelerator
-The page loader accelerator that prefetch link and forms witch lead to another HTML page. The event fire on **_mouseover_** of _link_ or submit button of _form_.
+The page loader accelerator that prefetch link and forms which lead to another HTML page. The event fire on **_mouseover_** of _link_ or submit button of _form_.
 The next page will be loaded from disc cache 1ms-10ms instead 300ms - 10min. The script may use several cache methods [preload, prefetch](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf) , prerender, preconnect of html
 [standard](https://www.w3.org/TR/resource-hints/) .
 
